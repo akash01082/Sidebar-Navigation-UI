@@ -11,15 +11,6 @@ A modern and responsive sidebar navigation menu built with
 
 </div>
 
-## 👨‍💻 Author
-
-<div align="center">
-
-### Akash Kundu
-
-Frontend Development Enthusiast
-
-</div>
 
 ## 📖 Overview
 
@@ -45,7 +36,7 @@ The goal of this project is to practice frontend development fundamentals while 
 
 ## 📂 Project Structure
 
-responsive-sidebar-menu/ <br />
+responsive-sidebar-menu/<br />
 │<br />
 ├── index.html <br />
 ├── style.css <br />
@@ -61,11 +52,13 @@ responsive-sidebar-menu/ <br />
 - Git & GitHub workflow
 
 
-## 🔮 Future Enhancements
+## 👨‍💻 Author
 
-- Sidebar Toggle Button
-- Dark Mode Support
-- CSS Animations
-- Mobile Menu
-- Dashboard Layout
+<div align="center">
+
+### Akash Kundu
+
+Frontend Development Enthusiast
+
+</div>
 
