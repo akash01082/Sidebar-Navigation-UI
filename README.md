@@ -3,7 +3,7 @@
 #  Responsive Sidebar Menu
 
 <p>
-A modern and responsive sidebar navigation menu built with HTML5 and CSS3.
+A modern and responsive sidebar navigation menu built with
 </p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,6 +11,15 @@ A modern and responsive sidebar navigation menu built with HTML5 and CSS3.
 
 </div>
 
+## 👨‍💻 Author
+
+<div align="center">
+
+### Akash Kundu
+
+Frontend Development Enthusiast
+
+</div>
 
 ## 📖 Overview
 
@@ -36,10 +45,10 @@ The goal of this project is to practice frontend development fundamentals while 
 
 ## 📂 Project Structure
 
-responsive-sidebar-menu/
-│
-├── index.html
-├── style.css
+responsive-sidebar-menu/ <br />
+│<br />
+├── index.html <br />
+├── style.css <br />
 └── README.md
 
 
@@ -60,13 +69,3 @@ responsive-sidebar-menu/
 - Mobile Menu
 - Dashboard Layout
 
-
-## 👨‍💻 Author
-
-<div align="center">
-
-### Akash Kundu
-
-Frontend Development Enthusiast
-
-</div>
