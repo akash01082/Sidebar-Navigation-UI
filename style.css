@@ -74,3 +74,15 @@
 .sidebar_menu .menu i{
     padding-right: 10px;
 }
+
+.sidebar_menu .social_media{
+    position: absolute;
+    left: 25%;
+    bottom: 25px;
+}
+
+.sidebar_menu .social_media i{
+    color: white;
+    opacity: 0.5;
+    padding: 0 5px;
+}
