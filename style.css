@@ -77,14 +77,14 @@
 
 .sidebar_menu .social_media{
     position: absolute;
-    left: 25%;
-    bottom: 25px;
+    left: 22%;
+    bottom: 5px;
 }
 
 .sidebar_menu .social_media i{
     color: white;
-    opacity: 0.5;
-    padding: 0 5px;
+    opacity: 0.4;
+    padding: 0 3px;
 }
 
 .sidebar_menu .menu li:hover{
