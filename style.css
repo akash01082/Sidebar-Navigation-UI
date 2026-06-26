@@ -45,3 +45,9 @@
     font-size: 25px;
     font-weight: 700;
 }
+
+.sidebar_menu .menu{
+    position: absolute;
+    width: 100%;
+    top: 80px;
+}
