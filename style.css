@@ -45,6 +45,14 @@
     font-size: 25px;
     font-weight: 700;
 }
+.sidebar_menu .btn_two{
+    color: grey;
+     font-size: 25px;
+     line-height: 50px;
+     position: absolute;
+     left: 220px;
+     opacity: 0;
+}
 
 .sidebar_menu .menu{
     position: absolute;
