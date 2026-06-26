@@ -61,7 +61,7 @@
 }
 
 .sidebar_menu .menu li{
-    margin-top: 6px;
+    margin-top: 5px;
     padding: 14px 20px;
 }
 
@@ -85,4 +85,8 @@
     color: white;
     opacity: 0.5;
     padding: 0 5px;
+}
+
+.sidebar_menu .menu li:hover{
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
