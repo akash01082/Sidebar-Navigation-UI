@@ -100,3 +100,8 @@
 .btn_two i:hover{
     font-size: 30px;
 }
+
+.sidebar_menu .social_media i:hover{
+    opacity: 1;
+    transform: scale(1.3);
+}
