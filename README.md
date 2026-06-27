@@ -40,6 +40,7 @@ responsive-sidebar-menu/<br />
 │<br />
 ├── index.html <br />
 ├── style.css <br />
+├── photo.jpg <br />
 └── README.md
 
 
