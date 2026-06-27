@@ -68,6 +68,7 @@
 .sidebar_menu .menu li{
     margin-top: 5px;
     padding: 14px 20px;
+    transition: all 0.3s linear;
 }
 
 .sidebar_menu .menu i,a{
@@ -94,6 +95,7 @@
 
 .sidebar_menu .menu li:hover{
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+    font-size: 25px;
 }
 
 .btn_one i:hover{
