@@ -49,12 +49,13 @@
 }
 .sidebar_menu .btn_two i{
     color: grey;
-     font-size: 25px;
-     line-height: 40px;
-     position: absolute;
-     left: 220px;
-     opacity: 0;
-     cursor: pointer;
+    font-size: 25px;
+    line-height: 40px;
+    position: absolute;
+    left: 220px;
+    opacity: 0;
+    cursor: pointer;
+    transition: all 0.3s linear;
 }
 
 .sidebar_menu .menu{
