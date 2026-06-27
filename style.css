@@ -52,6 +52,7 @@
      line-height: 40px;
      position: absolute;
      left: 220px;
+     opacity: 0;
      cursor: pointer;
 }
 
@@ -115,4 +116,8 @@
 
 #check:checked ~ .btn_one i{
     opacity: 0;
+}
+
+#check:checked ~ .sidebar_menu .btn_two i{
+    opacity: 1;
 }
